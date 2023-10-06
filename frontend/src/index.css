@@ -42,9 +42,8 @@ body{
     line-height: 1.7;
     /* background-image: url('./assets/pics/bg-texture.png'); OG */ 
     /* background-image: url('./assets/pics/denim.png'); */
-    /* background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
-     */
-     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+     /* background-image: linear-gradient(to top, #09203f 0%, #537895 100%); */
 
 
 }
